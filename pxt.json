@@ -1,0 +1,28 @@
+{
+    "name": "1c14 microbit a",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "PKS Driver": "github:peanut-king-solution/pxt-pks-shield#a139efd23799fd3753885c28406e2a42da26ef5d",
+        "radio-broadcast": "*",
+        "datalogger": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
